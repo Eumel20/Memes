@@ -232,6 +232,15 @@
     margin-left: 10px;
 }
 
+#button27 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
 #Test {
     color: Black;
     font-size: 20px;
@@ -366,6 +375,11 @@
 }
 
 #button26 a:hover {
+    color: red;
+    
+}
+
+#button27 a:hover {
     color: red;
     
 }
