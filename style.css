@@ -1,10 +1,12 @@
+body {background-color: lightskyblue;}
+
 #button1 {
     color: white;
     display: inline-block;
     font-size: 32px;
     font-weight: bolder;
     margin: 16px;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 #button2 {
@@ -241,8 +243,17 @@
     margin-left: 10px;
 }
 
-#button28 {
+#button29 {
     color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
+#button28 {
+    color: green;
     display: inline-block;
     font-size: 32px;
     font-weight: bolder;
@@ -260,6 +271,7 @@
     color: white;
     display: inline-block;
     font-size: 20px;
+    font-weight: bolder;
     margin-left: 10px;
 }
 
@@ -394,6 +406,11 @@
 }
 
 #button28 a:hover {
+    color: red;
+    
+}
+
+#button29 a:hover {
     color: red;
     
 }
