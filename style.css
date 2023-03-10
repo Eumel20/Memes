@@ -252,6 +252,15 @@ body {background-color: lightskyblue;}
     margin-left: 10px;
 }
 
+#button30 {
+    color: white;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 10px;
+}
+
 #button28 {
     color: green;
     display: inline-block;
