@@ -261,6 +261,16 @@ body {background-color: lightskyblue;}
     margin-left: 10px;
 }
 
+#button-back {
+    margin-top: -1.5cm;
+    margin-left: 28cm;
+}
+
+#button31 {
+    margin-left: 17cm;
+    margin-top: -1.5cm;
+}
+
 #button28 {
     color: green;
     display: inline-block;
@@ -424,12 +434,3 @@ body {background-color: lightskyblue;}
     
 }
 
-#Registrieren {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-#Anmelden {
-    margin-top: 20px;
-    margin-left: 20px;
-}
